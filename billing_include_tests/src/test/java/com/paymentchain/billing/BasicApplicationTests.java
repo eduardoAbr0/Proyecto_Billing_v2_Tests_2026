@@ -29,6 +29,8 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 public class BasicApplicationTests extends AbstractIntegrationTest {
 
+    //Configuracion pruebas
+
     private MockMvc mockMvc;
     
     @Mock
